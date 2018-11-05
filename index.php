@@ -1,6 +1,6 @@
 <html>
  <head>
-   <title>Mon premier site</title>
+   <title>IHM ROBOT</title>
  </head>
  <body>
   <div id="titre1" class="titre" style="border: solid;">
